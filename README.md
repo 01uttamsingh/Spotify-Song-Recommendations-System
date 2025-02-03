@@ -1,3 +1,16 @@
+Running Process:
+Download all the files:
+and run directly "app.py"
+the address of the folders should be same as your Device.
+
+The code for preprocess the data and feature engineering code is also given.
+Also the code of how i trained the machine using dataset.
+This datasets are download from github and Kaggle, all are the static stored datasets.
+I've added two columns in the dataset as per the project requirements "user_id", "username".
+
+
+
+
 Spotify Song Recommendation System - Simple Explanation 🎵
 
 This project is a Spotify Song Recommendation System that suggests songs to users based on their listening history. It works by analyzing user preferences and comparing them with similar users to recommend songs they might enjoy.
